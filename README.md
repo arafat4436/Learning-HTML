@@ -15,3 +15,4 @@ Task:
       o	Your name and image
       o	A short bio
       o	A few links to social media
+	
